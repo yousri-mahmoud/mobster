@@ -264,7 +264,7 @@ a {
   }
   .navbar {
     height: auto;
-    padding-top: 0;
+    padding-top: 0px;
   }
   .navbar .flex {
     flex-direction: column;
@@ -278,14 +278,14 @@ a {
     font-size: 12px;
   }
   .btn-primary {
-    margin-bottom: 50px;
+    margin-bottom: 80px;
   }
 
   .container {
     padding: 0 20px;
   }
   .nav-mp {
-    padding: 30px 0;
+    padding: 50px 0;
   }
 
   .nav-mp ul {
