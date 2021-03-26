@@ -277,15 +277,15 @@ a {
     padding: 10px 15px;
     font-size: 12px;
   }
-  /* .btn-primary {
+  .btn-primary {
     margin-bottom: 50px;
-  } */
+  }
 
   .container {
     padding: 0 20px;
   }
   .nav-mp {
-    padding: 10px 0;
+    padding: 30px 0;
   }
 
   .nav-mp ul {
@@ -326,6 +326,6 @@ a {
   }
   .account {
     text-align: center;
-    padding-left: 20px;
+    padding-left: 0px;
   }
 }
